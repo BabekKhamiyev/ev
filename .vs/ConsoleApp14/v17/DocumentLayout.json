@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38ACAB-C930-4853-B8AE-81A71A508F23}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp14\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38ACAB-C930-4853-B8AE-81A71A508F23}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38ACAB-C930-4853-B8AE-81A71A508F23}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp14\\consoleapp14\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38ACAB-C930-4853-B8AE-81A71A508F23}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C38ACAB-C930-4853-B8AE-81A71A508F23}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp14\\consoleapp14\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C38ACAB-C930-4853-B8AE-81A71A508F23}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Store.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Store.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Store.cs",
+              "RelativeToolTip": "ConsoleApp14\\Store.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAMwCsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:52:41.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Product.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Product.cs",
+              "RelativeToolTip": "ConsoleApp14\\Product.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:47:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeToolTip": "ConsoleApp14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:38:57.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
